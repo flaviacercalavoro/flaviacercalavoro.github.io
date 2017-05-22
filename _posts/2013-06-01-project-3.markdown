@@ -4,7 +4,7 @@ title: Sciences Po Paris
 subtitle: Primo anno di Laurea Magistrale
 layout: default
 modal-id: 3
-date: 2013
+date: 2013-06-01
 img: sc-po.png
 thumbnail: sc-po.png
 alt: image-alt
