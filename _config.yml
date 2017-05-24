@@ -1,5 +1,5 @@
 url: https://flaviacercalavoro.github.io
-baseurl: 
+baseurl:
 
 # Site settings
 title: Il curriculum di Flavia
@@ -13,13 +13,13 @@ people:
   pic: 1
   position: Ricercatrice di lavoro
   social:
-    - title: monster
-      url: #
+#    - title: github
+#      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: monster
-    url: #
+#  - title: github
+#    url: #
 
 # Postal address (add as many lines as necessary)
 address:

@@ -5,8 +5,8 @@ subtitle: Programma Erasmus
 layout: default
 modal-id: 1
 date: 2010-06-01
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: univ-paris4.jpg
+thumbnail: univ-paris4_thumb.jpg
 alt: image-alt
 project-date: 2012-2013
 client: Université Paris IV - Sorbonne
