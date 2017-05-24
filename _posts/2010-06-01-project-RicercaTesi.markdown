@@ -9,7 +9,8 @@ img: univ-paris4.jpg
 thumbnail: univ-paris4_thumb.jpg
 alt: image-alt
 project-date: 2012-2013
-client: Université Paris IV - Sorbonne
+institution: Université Paris IV - Sorbonne
+institutionUrl: http://www.paris-sorbonne.fr/
 category: Scienze filosofiche
 description: La Sorbonne...
 
